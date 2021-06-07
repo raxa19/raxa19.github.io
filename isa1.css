@@ -1,0 +1,147 @@
+*{
+    margin: 0px;
+    padding: 0px;
+  }
+
+body{
+    background: #2d2d2d;
+  }
+
+.wrapper{
+  width: 80%; 
+  background: #2d2d2d; 
+  height: 2200px; 
+  margin:auto; 
+}
+
+.parts{
+    padding-top: 130px;
+}
+
+.parts .about{
+    display: inline-block;
+    height: 100px; 
+    padding-right: 300px;
+  }
+  
+  .parts .work{
+    display: inline-block;
+    height: 100px;
+    width:100px; 
+    
+  }
+  
+  .parts .contact{
+    display: inline-block;  
+    padding-left: 300px; 
+    height: 100px;
+  }
+
+  .me{
+    height: 180px; 
+    padding-top: 220px; 
+  }
+
+  .who{
+    display: inline-block;
+    padding-top: 60px;
+    padding-left: 10px;
+    width: 35%;
+    height: 100px;
+    font-family: 'Lato', sans-serif; 
+    font-size: 30px;
+    color: white; 
+    text-align: left; 
+  }
+  
+  .para{
+    display: inline-block;
+    padding-left: 200px;
+    width: 45%; 
+    height: 150px; 
+    font-family: 'Lato', sans-serif; 
+    font-size: 20px;
+    color: white; 
+    text-align: left; 
+  }
+
+  
+.stuff{
+    padding-top: 250px;
+    height: 500px;
+  }
+  
+  .first img{
+    float: left; 
+    display: inline-block;
+    width: 40%;
+    height: 350px;
+  }
+  
+  .sec img{
+    float: right; 
+    display: inline-block; 
+    width: 40%;
+    height: 350px;
+  }
+
+  .contme{
+    padding-top: 150px;
+    height: 200px;
+  }
+  
+  .contme .ig{
+    display: inline-block;
+    height: 100px;
+    width: 100px; 
+    padding-right: 250px;
+  }
+  
+  .contme .email{
+    display: inline-block;
+    height: 100px;
+    width: 100px;
+  }
+  
+  .contme .ld{
+    display: inline-block;
+    height: 100px;
+    width: 100px; 
+    padding-left: 250px;
+  }
+  
+  .igt{
+    display: inline-block; 
+    width: 100px;
+    height: 50px;
+    padding-right: 250px;
+    font-family: 'Lato', sans-serif; 
+    font-size: 10px;
+    color: white; 
+    text-align: center;
+  }
+  
+  .emailt{
+    display: inline-block;
+    width: 100px;
+    height: 50px; 
+    font-family: 'Lato', sans-serif; 
+    font-size: 10px;
+    color: white; 
+    text-align: center;
+  }
+  
+  .ldt{
+    display: inline-block;
+    width: 100px;
+    height: 50px;
+    padding-left: 250px;
+    font-family: 'Lato', sans-serif; 
+    font-size: 10px;
+    color: white; 
+    text-align: center;
+  }    
+    
+  
+  
+  
